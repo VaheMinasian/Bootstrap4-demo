@@ -1,0 +1,74 @@
+.jumbotron{
+	position: absolute;
+	left: 50%;
+	top: 54%;
+	transform: translate(-50%, -50%);
+	z-index: 12;
+	opacity: 0.82;
+	text-align: center;
+}
+
+.form-inline-signup{
+width: 350px;
+margin: 0 auto;
+}
+
+#email{
+	margin-right: 8px;
+}
+
+.loginfield{
+	max-width: 300px;
+}
+
+.jumbotron p{
+	font-weight: bold;
+	font-size: 1.05em;
+}
+
+.my-4{
+	margin-top: 20px;
+}
+
+.lead{
+	margin-bottom: 0;
+}
+
+.display-5{
+	margin-top: -40px;
+}
+.input-group{
+	margin-bottom: -40px;
+}
+nav{
+	background: #35693C;
+}
+
+#summery{
+	margin: 50px auto;
+	font-weight: bold;
+	text-align: center;
+}
+#summery p{
+	font-weight: normal;
+	font-size: 1.3em;
+}
+.card-deck-wrapper{
+	margin: 0px 80px 0px 80px;
+}
+.card-img-top{
+	width: 100%;
+}
+
+h2{
+	margin: 0 auto;
+}
+#appstoreicon{
+	width: 200px;
+}
+#footer{
+	background-color: aqua;
+	margin: 50px 0px 0px 0px;
+	padding: 40px 0px 35px 0px;
+	text-align: center;
+}
